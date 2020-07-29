@@ -1,0 +1,243 @@
+{
+    "basics": {
+        "name": "Kenneth Kutyn",
+        "label": "Solutions Engineer, Product Manager, Public Speaker, MBA, Experimenter, Builder",
+        "picture": "",
+        "email": "kennethkutyn@gmail.com",
+        "phone": "+31614848408",
+        "website": "http://kennethkutyn.com",
+        "summary": "Solutions Engineer",
+        "location": {
+            "address": "Spaarndammerstraat 27H",
+            "postalCode": "1013 SR",
+            "city": "Amsterdam",
+            "countryCode": "NL",
+            "region": "Noord Holland"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "kennethmarshall",
+                "url": "http://twitter.com/kennethmarshall"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Optimizely",
+            "position": "Lead Solutions Engineer",
+            "website": "http://optimizely.com",
+            "startDate": "2016-12-05",
+            "summary": "Guided customers and prospects through technical validation of Optimizely’s client-side and server-side progressive delivery and experimentation platforms, including PoCs, workshops, and demos. Developed relationships with technical contacts at key accounts. Received rapid promotions to Senior and Lead Solutions Engineer in first 3 years.",
+            "location": "Amsterdam, NL",
+            "highlights": ["Guided customers and prospects through technical validation of Optimizely’s client-side and server-side progressive delivery and experimentation platforms, including PoCs, workshops, and demos. Developed relationships with technical contacts at key accounts. Received rapid promotions to Senior and Lead Solutions Engineer in first 3 years."]
+        },
+        {
+            "name": "Rightly",
+            "position": "Product Manager",
+            "website": "http://www.rightly.co.uk",
+            "startDate": "2017-06-01",
+            "endDate": "2019-07-01",
+            "summary": "Assessed product-market fit and developed product prototypes to secure seed-funding for a personal data startup. Worked with engineers, designers, and lawyers to deliver MVP and conduct user feedback sessions. Transitioned to advisor role to provide ongoing strategic guidance.",
+            "location": "London, UK (remote, part-time)",
+            "highlights": ["Assessed product-market fit and developed product prototypes to secure seed-funding for a personal data startup. Worked with engineers, designers, and lawyers to deliver MVP and conduct user feedback sessions. Transitioned to advisor role to provide ongoing strategic input."]
+        },
+        {
+            "name": "Oracle",
+            "position": "Staff Sales Engineer",
+            "website": "http://oracle.com",
+            "startDate": "2015-04-01",
+            "endDate": "2016-10-28",
+            "summary": "Assisted Oracle customers in transitioning from traditional on-premises BI and Analytics, to a modern cloud-based platform. Acted as a leader for sales team, including running numerous internal trainings for Account Executives on the benefits of cloud technology.",
+            "location": "San Francisco, California",
+            "highlights": ["Assisted Oracle customers in transitioning from traditional on-premises BI and Analytics, to a modern cloud-based platform. Acted as a leader for sales team, including running numerous internal trainings for Account Executives on the benefits of cloud technology."]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "The University of British Columbia",
+            "area": "Civil Engineering",
+            "studyType": "Bachelor's of Applied Science",
+            "startDate": "2007-09-01",
+            "endDate": "2011-05-01"
+        },
+        {
+            "institution": "Maastricht School of Management",
+            "area": "Masters of Business Administration",
+            "studyType": "",
+            "startDate": "2018-11-01",
+            "endDate": "2020-11-01"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Sales Engineering",
+            "level": "Master",
+            "value": 100,
+            "keywords": ["PoC", "Demo", "value"]
+        },
+        {
+            "name": "Product",
+            "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Customer Success",
+            "level": "Master",
+            "value": 60,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Public Speaking",
+            "level": "Master",
+            "value": 90,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Experimentation",
+            "level": "Master",
+            "value": 85,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Business Strategy",
+            "level": "Master",
+            "value": 70,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        },
+        {
+            "name": "Entrepreneurship",
+            "level": "Master",
+            "value": 65,
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "interests": [
+        {
+            "name": "Burritos",
+            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+        },
+        {
+            "name": "Dogs",
+            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+        },
+        {
+            "name": "Tendresse",
+            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+        },
+        {
+            "name": "Something",
+            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
+        },
+        {
+            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+        }
+    ],
+    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "projects": [
+        {
+            "name": "DeckBuilder - Web App",
+            "description": "A web app that generates a custom sales deck for a customer including table of contents, sections, architecture diagrams, customer logos, account team and more.",
+            "images": [],
+            "link": "https://github.com/kennethkutyn/deckbuilder"
+        },
+        {
+            "name": "biasBlocker - Chrome Extension",
+            "description": "Unconscious bias is a documented problem in the recruiting process. This Chrome extension hides candidate images on their LinkedIn and XING profile so they can be evaluated for their experience, not their race.",
+            "images": [],
+            "link": "https://chrome.google.com/webstore/detail/biasblocker/joplncnfgmmemjimmgnacabbkpmdhnee"
+        },
+        {
+            "name": "Amsterdam Transport Planner - Web App",
+            "description": "A simple mobile web app that helps commuters plan their trip. Built to demonstrate use of AJAX requests, public APIs, and CSS animations.",
+            "images": [],
+            "link": "http://kennethkutyn.github.io/mynextbus"
+        }, 
+        {
+            "name": "Simply - Budgeting App Prototype",
+            "description": "A prototype for an iPhone app aimed at giving users an easy way to track personal expenses and make data-driven budgeting decisions.",
+            "images": [],
+            "link": "https://invis.io/9W7PS45CY#/168571614_Log"
+        }
+        
+    ],
+    "specific": {
+        "basics": {
+            "visaSponsorship": false,
+            "personalDescription": "Sales Engineer: 8 years experience leading PoCs, demos, workshops and onboarding sessions for various software products (BI, Analytics, Data Visualization, Experimentation, Feature Flagging, CAD, CAE, BIM).\n\nCustomer Empathy: experience in technical support and customer success roles, acting as an advocate for customer needs in product development.\n\nProduct Manager: Lead product management in a startup and secured seed and series A funding. Studied Product Management at Stanford University Continuing Studies.\n\nMBA Candidate: Ongoing studies at Maastricht School of Management with specialization in International Business. Target completion Fall 2020.\n\nExperimenter: Consulted Optimizely's enterprise customers across EMEA on experimentation strategy and technical considerations.\n\nEngineering Background and First Principles thinking: Degree in Civil Engineering at the University of British Columbia.\n\nPublic Speaker & Panel Moderator: Product School, DMEXCO, AB Testing Summit, Virtual Product Conference and more. Toastmasters 'Competent Communicator' certified.\n\nInternational Experience: Lived and worked in Canada, UK, USA and the Netherlands, and presented to customers in 15+ countries."
+        },
+        "dreamJob": {
+            "locations": [
+                { "name": "Valenciennes, France" },
+                { "name": "Lille, France" },
+                { "name": "Paris,France" },
+                { "name": "Paris,France" },
+                { "name": "Lille, France" },
+                { "name": "Valenciennes, France" }
+            ],
+            "remoteFrequency": "regularly"
+        },
+        "currentJob": {
+            "issues": { "boring_management": false, "boring_team": false }
+        },
+        "education": { "studiesLevel": 5 },
+        "work": {
+            "contractTypes": ["permanent"],
+            "codingYears": 7,
+            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "searchState": "activelySearching",
+            "experienceYears": 8
+        },
+        "sound": {
+            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+        },
+        "interestedBy": "Angular, la blochain et les chatons."
+    },
+    "resumeCustomization": {
+        "imageHeader": {
+            "url": "https://media-exp1.licdn.com/dms/image/C4D16AQFaaXJZBMpGeg/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=1vG7-K9BkkUwW2nLcrMZ5VQvL2zP3g0u0JXQ3gFhO4E",
+            "alt": "Default Banner"
+        },
+        "cardsOrder": [
+            { "type": "basics", "variant": 4 },
+            { "type": "projects", "variant": 4 },
+            { "type": "skills", "variant": 0 },
+            { "type": "experiences", "variant": 4 },
+            { "type": "studies", "variant": 4 }
+        ],
+        "fields": {
+            "work": {
+                "customDateFormat": "YYYY"
+            }
+        }
+    }
+}
